@@ -9267,6 +9267,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .clockpicker-canvas-bearing {
   stroke: none;
   fill: #26a69a;
+  background-color: red;
 }
 
 .clockpicker-canvas-bg {
